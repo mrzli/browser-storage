@@ -4,6 +4,12 @@ All notable changes to the "browser-storage" will be documented in this file.
 
 ## [Unreleased]
 
+## [0.0.2] - 2023-12-25
+
+### Changed
+
+- Update readme.
+
 ## [0.0.1] - 2023-12-25
 
 ### Added
